@@ -18,6 +18,7 @@ function App() {
             rel="noopener noreferrer"
           >
             Learn React 3
+          <h1 className="App-title">Fib Calculator version KUBERNETES</h1>
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
